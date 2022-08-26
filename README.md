@@ -1,2 +1,2 @@
 # wp-script
-All WP-Script themes can be downloaded here
+All WP-Script themes, plugins can be downloaded here
